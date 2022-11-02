@@ -224,6 +224,3 @@ __pycache__/
 
 # Windows thumbnail cache files
 Thumbs.db
-
-# Custom ignone
-appsettings.json
